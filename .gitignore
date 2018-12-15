@@ -1,0 +1,4 @@
+instr.txt
+*.o
+*.elf
+*.bin
